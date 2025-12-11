@@ -1,3 +1,7 @@
+IA: Gemini Flash 2.5
+
+Tecnicas: Chain of Thought, Few-Shot Prompting, Constraints
+
 Como un experto en el desarrollo web con JavaScript, HTML y CSS ayúdame a desarrollar lo siguiente:
 
 Antes de entregar el código final, explica brevemente (en 3 puntos) tu plan de acción para asegurar que el código de validación cumple con todos los requerimientos y se integra correctamente en la estructura de los archivos proporcionados.
