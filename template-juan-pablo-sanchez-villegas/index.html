@@ -16,12 +16,6 @@
             border-radius: 4px;
         }
         .error { color: red; font-size: 0.9em; margin-top: 5px; }
-        /* Estilo para el mensaje de éxito */
-        #successMessage { 
-            color: green; 
-            font-weight: bold; 
-            margin-top: 15px; 
-        }
     </style>
 </head>
 <body>
@@ -46,7 +40,7 @@
         </div>
 
         <button type="submit">Registrar</button>
-        <div id="successMessage"></div>
+        <div id="successMessage" class="error" style="color: green;"></div>
     </form>
 
     <script src="script.js"></script>
